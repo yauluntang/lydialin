@@ -62,7 +62,7 @@ class Footer_v1 extends Component {
 				                    <i className="icon-placeholder" />
 				                  </div>
 				                  <div className="footer-address-info">
-				                    <p>Ellicott City, MD</p>
+				                    <p>Maryland</p>
 				                  </div>
 				                </li>
 				                <li>
@@ -70,7 +70,7 @@ class Footer_v1 extends Component {
 				                    <i className="icon-call" />
 				                  </div>
 				                  <div className="footer-address-info">
-				                    <p><a href="tel:4109728966">4109728966</a></p>
+				                    <p><a href="tel:4109728966">410-972-8966</a></p>
 				                  </div>
 				                </li>
 				                <li>
@@ -85,6 +85,52 @@ class Footer_v1 extends Component {
 				            </div>
 				            <div className="ltn__social-media mt-20">
 						    	<Social />
+				            </div>
+				          </div>
+				        </div>
+								<div className="col-xl-3 col-md-6 col-sm-6 col-12">
+				          <div className="footer-widget footer-menu-widget clearfix">
+				            <h4 className="footer-title">Location Served</h4>
+				            <div className="footer-menu go-top">
+				              <ul>
+				                <li>Ellicott City</li>
+												<li>Columbia</li>
+												<li>Laurel</li>
+												<li>Catonsville</li>
+												<li>Glen Burnie</li>
+												<li>Hanover</li>
+												
+				              </ul>
+				            </div>
+				          </div>
+				        </div>
+								<div className="col-xl-3 col-md-6 col-sm-6 col-12">
+				          <div className="footer-widget footer-menu-widget clearfix">
+				            <h4 className="footer-title">.</h4>
+				            <div className="footer-menu go-top">
+				              <ul>
+												<li>Rockville</li>
+												<li>Silver Spring</li>
+												<li>Potomac</li>
+												<li>Chevy Chase</li>
+												<li>Germantown</li>
+												<li>Bethesda</li>
+											
+				              </ul>
+				            </div>
+				          </div>
+				        </div>
+								<div className="col-xl-3 col-md-6 col-sm-6 col-12">
+				          <div className="footer-widget footer-menu-widget clearfix">
+				            <h4 className="footer-title">.</h4>
+				            <div className="footer-menu go-top">
+				              <ul>
+												<li>Gaithersburg</li>
+												<li>College Park</li>
+												<li>Hyattsville</li>
+												<li>Olney</li>
+												<li>Clarksburg</li>
+				              </ul>
 				            </div>
 				          </div>
 				        </div>

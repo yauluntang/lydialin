@@ -19,10 +19,10 @@ class Banner extends Component {
 				            <div className="col-lg-12 align-self-center">
 				              <div className="slide-item-info">
 				                <div className="slide-item-info-inner ltn__slide-animation">
-				                  <h6 className="slide-sub-title white-color--- animated"><span><i className="fas fa-home" /></span> Real Estate Agency</h6>
-				                  <h1 className="slide-title animated ">Find Your Dream <br /> House By Us</h1>
+				                  <h6 className="slide-sub-title white-color--- animated"><span><i className="fas fa-home" /></span> Maryland Real Estate Agency</h6>
+				                  <h1 className="slide-title animated " style={{fontSize:'40px'}}>Highest house price </h1><h1 style={{fontSize:'40px'}}> Lowest commission</h1>
 				                  <div className="slide-brief animated">
-				                    <p>Low Commission.</p>
+				                    
 				                  </div>
 				                  <div className="btn-wrapper animated ">
 				                    	<Link to="/about" className="theme-btn-1 btn btn-effect-1 go-top">Make An Enquiry</Link>
@@ -46,10 +46,10 @@ class Banner extends Component {
 				            <div className="col-lg-12 align-self-center">
 				              <div className="slide-item-info">
 				                <div className="slide-item-info-inner ltn__slide-animation">
-				                  <h6 className="slide-sub-title white-color--- animated"><span><i className="fas fa-home" /></span> Real Estate Agency</h6>
-				                  <h1 className="slide-title animated ">The Right Place <br />of House Finding</h1>
+				                  <h6 className="slide-sub-title white-color--- animated"><span><i className="fas fa-home" /></span> Maryland Real Estate Agency</h6>
+				                  <h1 className="slide-title animated "  style={{fontSize:'50px'}}>The Right Place <br />of House Finding</h1>
 				                  <div className="slide-brief animated">
-				                    <p>Low Commission.</p>
+				                    
 				                  </div>
 				                  <div className="btn-wrapper animated">
 														<Link to="/about" className="theme-btn-1 btn btn-effect-1 go-top">Make An Enquiry</Link>

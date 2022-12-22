@@ -12,6 +12,7 @@ class Social extends Component {
 			<ul>
 				<li><a href="https://www.realtor.com/realestateagents/62903b259fe22c8712028c12" title="Realtor"><img src={publicUrl+"assets/img/realtor.svg"} width="16"/></a></li>
 				<li><a href="https://www.zillow.com/profile/linlydia83" title="Zillow"><img src={publicUrl+"assets/img/zillow.svg"} width="16"/></a></li>
+				<li><a href="https://www.linkedin.com/profile/linlydia83" title="LinkedIn"><img src={publicUrl+"assets/img/linkedin.svg"} width="16"/></a></li>
 			</ul>
 		</div>
         }

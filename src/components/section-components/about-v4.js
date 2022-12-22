@@ -26,21 +26,21 @@ class AboutV4 extends Component {
 						<div className="section-title-area ltn__section-title-2--- mb-20">
 						<h6 className="section-subtitle section-subtitle-2 ltn__secondary-color">About Us</h6>
 						<h1 className="section-title">The Leading Real Estate
-							Rental Marketplace<span>.</span></h1>
-						<p>Lydia started helping her family members to manage rental properties at the age of 18 and gained tremendous experience. After finishing school, Lydia went into the tech industry while started buying her first house. She then expanded from there into fix and flips, residential rental, motel rental and build.
+							</h1>
+						<p>Lydia started helping her family members to manage rental properties at the age of 18 and gained tremendous experience. After finishing school, Lydia went into the tech industry while started buying her first house. She then expanded from there into fix and flips, residential rental, motel rental and build.</p>
 
-Having helped many investors achieve financial independence, Lydia is sensitive in the housing market, especially in Maryland. She is very good at valuate houses for sale. Lydia is also a good negotiator, and can help her clients buy their houses at the most reasonable price.
+						<p>Having helped many investors achieve financial independence, Lydia is sensitive in the housing market, especially in Maryland. She is very good at valuate houses for sale. Lydia is also a good negotiator, and can help her clients buy their houses at the most reasonable price.</p>
 
-Lydia has a broad network of investors in the Maryland area and have solid social media platforms. She can promote her listing very efficiently.
+						<p>Lydia has a broad network of investors in the Maryland area and have solid social media platforms. She can promote her listing very efficiently.</p>
 
-She aims to help more individuals and families build their real estate empire, find their dream houses, and sell their houses at the best and highest price.
+						<p>She aims to help more individuals and families build their real estate empire, find their dream houses, and sell their houses at the best and highest price.</p>
 
-Lydia's availability is 24/7 and always available when the clients need her. Lydia can speak fluently English, Mandarin, and Fuzhou Dialect. Feel free to call or text.</p>
+						<p>Lydia's availability is 24/7 and always available when the clients need her. Lydia can speak fluently English, Mandarin, and Fuzhou Dialect. Feel free to call or text.</p>
 						</div>
 						<ul className="ltn__list-item-half clearfix">
 						<li>
 							<i className="flaticon-home-2" />
-							Smart Home Design
+							Maryland Real Estate Investor
 						</li>
 						<li>
 							<i className="flaticon-mountain" />
@@ -52,7 +52,7 @@ Lydia's availability is 24/7 and always available when the clients need her. Lyd
 						</li>
 						<li>
 							<i className="flaticon-secure" />
-							Complete 24/7 Security
+							Buying agent/Selling agent
 						</li>
 						</ul>
 					</div>

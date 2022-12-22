@@ -14,7 +14,7 @@ class Review extends Component {
 			          <div className="ltn__testimoni-info">
 			            <p><i className="flaticon-left-quote-1" /> 
 			              {this.props.comment}</p>
-			            <div className="ltn__testimoni-info-inner">
+			            {this.props.name && <div className="ltn__testimoni-info-inner">
 			              <div className="ltn__testimoni-img">
 			                <img src={publicUrl+"assets/img/testimonial/1.jpg"} alt="#" />
 			              </div>
@@ -22,7 +22,7 @@ class Review extends Component {
 			                <h5>{this.props.name}</h5>
 			                
 			              </div>
-			            </div>
+			            </div>}
 			          </div>
 			        </div>
 			      </div>

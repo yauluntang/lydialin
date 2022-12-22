@@ -16,7 +16,7 @@ class Navbar extends Component {
 					<div className="ltn__top-bar-menu">
 						<ul>
 						<li><a href="mailto:lydialin83@gmail.com"><i className="icon-mail" /> lydialin83@gmail.com</a></li>
-						<li><a href="#/contact"><i className="icon-placeholder" /> 300 E Lombard St, Baltimore, MD 21202</a></li>
+						<li><a href="#/contact"><i className="icon-placeholder" /> 11810 Grand Park AVE 500. North Bethesda, MD, 20852</a></li>
 						<li><i className="icon-call" /> 410-972-8966</li>
 						</ul>
 					</div>

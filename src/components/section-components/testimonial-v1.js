@@ -21,9 +21,9 @@ class Testimonial extends Component {
 			      </div>
 			    </div>
 			    <div className="row ltn__testimonial-slider-5-active slick-arrow-1">
-						<Review comment="Lydia was our agent when we bought our first house in Maryland . She is super patient and knowledgeable. We enjoyed working with her all along . She always provided with great opinions and resources. We would love to work with her again" name="Jaye"></Review>
-						<Review comment="Our agent Lydia made a lot of useful suggestions when we bought our first rental property. She was very responsive and almost responded my phone call and text messages 24/7. I highly recommend her to other buyers" name="Peter"></Review>
-						<Review comment="Lydia is a very experienced and professional agent . Her knowledge about the houses was superior and we got great benefits to get our house . She’s also very responsive and patient with all my questions . We would highly recommend her for anyone to buy houses in maryland" name="David"></Review>
+						<Review comment="Lydia was our agent when we bought our first house in Maryland . She is super patient and knowledgeable. We enjoyed working with her all along . She always provided with great opinions and resources. We would love to work with her again"></Review>
+						<Review comment="Our agent Lydia made a lot of useful suggestions when we bought our first rental property. She was very responsive and almost responded my phone call and text messages 24/7. I highly recommend her to other buyers"></Review>
+						<Review comment="Lydia is a very experienced and professional agent . Her knowledge about the houses was superior and we got great benefits to get our house . She’s also very responsive and patient with all my questions . We would highly recommend her for anyone to buy houses in maryland"></Review>
 			    </div>
 			  </div>
 			</div>
